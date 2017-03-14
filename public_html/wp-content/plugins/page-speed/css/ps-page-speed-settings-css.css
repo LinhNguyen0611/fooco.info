@@ -1,0 +1,18 @@
+.inline-wrap{display:inline-block;margin-right:10px;vertical-align:top}.gzip-inactive{font-weight:700}.gzip-active{color:green;font-weight:700}.col2{display:inline-block;vertical-align:top}.ps-textarea{min-height:100px;width:100%}.js-css-name-wrap{color:green}.wp-admin select{height:auto;padding:0}.ui-accordion-content.ui-helper-reset.ui-widget-content.ui-corner-bottom{height:auto!important}.ui-accordion-header.ui-state-default.ui-accordion-icons.ui-accordion-header-active.ui-state-active.ui-corner-top{background:none repeat scroll 0 0 #f6f6f6;border-bottom:0 none}.ui-accordion-content.ui-helper-reset.ui-widget-content.ui-corner-bottom.ui-accordion-content-active{background:none repeat scroll 0 0 #f6f6f6;padding:0 15px}.ui-widget-content a{text-decoration:none}.ps-content-wrapper h1{display:inline-block}.donation{float:right}
+
+
+.no-margin {
+    margin-top: -10px;
+}
+
+#purchase-button {
+  background: none repeat scroll 0 0 #2ea2cc;
+  border-color: #0074a2;
+  border-radius: 10px;
+  box-shadow: 0 1px 0 rgba(120, 200, 230, 0.5) inset, 0 1px 0 rgba(0, 0, 0, 0.15);
+  color: #fff;
+  display: inline-block;
+  margin-top: 10px;
+  padding: 5px 10px;
+  text-decoration: none;
+}
